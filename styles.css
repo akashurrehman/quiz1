@@ -1,0 +1,298 @@
+            #home {
+                background-image: url('./images/wallpaper.jpg');
+                height: 750px;
+                background-position: center;
+                background-size: cover;
+                color: aliceblue;
+            }
+            
+            .nicon i.fa {
+                display: inline-block;
+                border-radius: 60px;
+                box-shadow: 0 0 2px #888;
+                padding: 0.5em 0.6em;
+            }
+            
+            .navbar-nav li a {
+                font-size: 16px;
+                font-weight: 800;
+                font-family: "Work Sans", sans-serif;
+                line-height: 20px;
+            }
+            
+            #collapsibleNavbar .navbar-nav a {
+                color: #0f0f0f;
+            }
+            
+            .container .ok {
+                font-size: 3.2rem;
+                font-style: bold;
+                font-weight: 500;
+                color: rgb(245, 245, 68);
+            }
+            
+            .icon i {
+                color: rgb(240, 225, 48);
+            }
+            
+            .icon {
+                background-color: purple;
+            }
+            
+            #home h2 {
+                color: rgb(245, 245, 68);
+            }
+            
+            #home h1 {
+                font-weight: 600;
+                color: #ffe135;
+                font-size: 70px;
+            }
+            
+            #home h3 {
+                font-weight: 300;
+                color: #ffffff;
+                font-size: 30px;
+            }
+            
+            #home p {
+                font-size: 1.2rem;
+            }
+            
+            #About h3 {
+                color: #fbd214;
+                font-size: 16px;
+                font-weight: 800;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #About h2 {
+                color: #2e3349;
+                font-size: 28px;
+                font-weight: 800;
+                font-style: normal;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #About .p1 {
+                font-size: 20px;
+                font-weight: 300;
+                font-family: "Work Sans", sans-serif;
+                color: #6c757d;
+            }
+            
+            #About .p2 {
+                font-size: 16px;
+                font-weight: 400;
+                font-family: "Work Sans", sans-serif;
+                color: #6c757d;
+            }
+            
+            #Expertise h3 {
+                font-size: 16px;
+                font-weight: 800;
+                color: #fbd214;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Expertise h2 {
+                font-size: 40px;
+                font-weight: 800;
+                color: #2e3349;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Expertise .row li {
+                text-decoration: none;
+                list-style-type: decimal-leading-zero;
+                font-size: 24px;
+                font-weight: 800;
+                color: #fbd214;
+            }
+            
+            #Expertise .row p {
+                font-size: 14px;
+                font-weight: 400;
+                color: #6c757d;
+                line-height: 21px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Education .container .H2 {
+                font-size: 16px;
+                font-weight: 800;
+                color: #fbd214;
+                font-family: "Work Sans", sans-serif;
+                font-style: normal;
+            }
+            
+            #Education h1 {
+                font-size: 30px;
+                font-weight: 800;
+                color: #2e3349;
+                font-family: "Work Sans", sans-serif;
+                line-height: 48px;
+            }
+            
+            #Education .row h5 {
+                color: #fbd214;
+                font-size: 14px;
+                font-weight: 800;
+                font-style: normal;
+                line-height: 21px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Education .row h2 {
+                color: #2e3349;
+                font-size: 20px;
+                font-weight: 800;
+                font-style: normal;
+                line-height: 24px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Education .row h3 {
+                color: #2e3349;
+                font-size: 14px;
+                font-weight: 400;
+                font-style: normal;
+                line-height: 21px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Education .row p {
+                color: #6c757d;
+                font-size: 18px;
+                font-weight: 400;
+                font-style: normal;
+                line-height: 24px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Experience h1 {
+                font-size: 16px;
+                font-weight: 800;
+                color: #fbd214;
+                font-family: "Work Sans", sans-serif;
+                font-style: normal;
+            }
+            
+            #Experience .row .H3 {
+                font-size: 40px;
+                font-weight: 800;
+                color: #2e3349;
+                font-family: "Work Sans", sans-serif;
+                line-height: 48px;
+            }
+            
+            #Experience .new h5 {
+                color: #fbd214;
+                font-size: 14px;
+                font-weight: 800;
+                font-style: normal;
+                line-height: 21px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Experience .new h2 {
+                color: #2e3349;
+                font-size: 20px;
+                font-weight: 800;
+                font-style: normal;
+                line-height: 24px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Experience .new h3 {
+                color: #2e3349;
+                font-size: 14px;
+                font-weight: 400;
+                font-style: normal;
+                line-height: 21px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #Experience .row p {
+                color: #6c757d;
+                font-size: 18px;
+                font-weight: 400;
+                font-style: normal;
+                line-height: 24px;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #contact h2 {
+                font-size: 16px;
+                font-weight: 800;
+                color: #fbd214;
+                font-family: "Work Sans", sans-serif;
+                font-style: normal;
+            }
+            
+            #contact .row .H3 {
+                font-size: 30px;
+                font-weight: 800;
+                color: #2e3349;
+                font-family: "Work Sans", sans-serif;
+                line-height: 48px;
+            }
+            
+            #contact .card-body h4 {
+                font-size: 20px;
+                font-weight: 400;
+                font-style: normal;
+                line-height: 24px;
+                color: #2e3349;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #contact .card-body h5 a {
+                font-size: 12px;
+                font-weight: 400;
+                text-decoration: none;
+                font-style: normal;
+                line-height: 14px;
+                color: #2e3349;
+                font-family: "Work Sans", sans-serif;
+            }
+            
+            #socialAccounts h2 {
+                font-size: 40px;
+                font-weight: 800;
+                font-family: "Work Sans", sans-serif;
+                color: #2e3349;
+                line-height: 48px;
+            }
+            
+            #socialAccounts h4 {
+                font-size: 16px;
+                font-weight: 800;
+                font-family: "Work Sans", sans-serif;
+                color: #fbd214;
+                line-height: 19px;
+            }
+            
+            #socialAccounts .row p {
+                font-size: 16px;
+                font-weight: 400;
+                font-family: "Work Sans", sans-serif;
+                color: #6c757d;
+                line-height: 24px;
+            }
+            
+            #socialAccounts .nicon li:hover {
+                border-radius: 50px;
+                color: #ffe135;
+            }
+            
+            .ftr .row h4 {
+                font-size: 16px;
+                font-weight: 400;
+                font-family: "Work Sans", sans-serif;
+                color: #6c757d;
+            }
+            
+            p {
+                display: none;
+            }
