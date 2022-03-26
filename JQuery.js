@@ -1,4 +1,6 @@
-$(document).ready(function() {
+$(window).on("load", function() {
+    $("p:hidden").show();
+
     $("a").hover(function() {
         $(this).css("color", "yellow");
     }, function() {
@@ -9,6 +11,7 @@ $(document).ready(function() {
     }, function() {
         $(this).css("color", "");
     });
+
     $("h1,h2").hover(function() {
             $(this).css("color", "#A73979");
         },
@@ -21,8 +24,23 @@ $(document).ready(function() {
     }, function() {
         $(this).css("color", "");
     });
-});
 
-$(document).ready(function() {
-    $("p:hidden").show();
+    $("p").on({
+        click: function() {
+            console.log("clicked over a paragraph");
+        },
+        mouseleave: function() {
+            console.log("mouse left a paragraph");
+        },
+    });
+
+    $("h1,h2,h3,h4").on({
+        click: function() {
+            console.log("clicked over a Heading");
+        },
+        mouseleave: function() {
+            console.log("mouse left a Heading");
+        },
+    });
+
 });
